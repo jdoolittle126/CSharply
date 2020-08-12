@@ -1,4 +1,5 @@
-<h1 align="center">CSharply! 🥽</h1>
+![Image](Assets/Logo.png)
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
