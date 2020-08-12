@@ -1,0 +1,13 @@
+E:\Workspaces\visual-studio-c#\ConsoleControl\ConsoleControl\ConsoleControl\bin\Debug\netcoreapp3.1\CSharply.exe
+E:\Workspaces\visual-studio-c#\ConsoleControl\ConsoleControl\ConsoleControl\bin\Debug\netcoreapp3.1\CSharply.deps.json
+E:\Workspaces\visual-studio-c#\ConsoleControl\ConsoleControl\ConsoleControl\bin\Debug\netcoreapp3.1\CSharply.runtimeconfig.json
+E:\Workspaces\visual-studio-c#\ConsoleControl\ConsoleControl\ConsoleControl\bin\Debug\netcoreapp3.1\CSharply.runtimeconfig.dev.json
+E:\Workspaces\visual-studio-c#\ConsoleControl\ConsoleControl\ConsoleControl\bin\Debug\netcoreapp3.1\CSharply.dll
+E:\Workspaces\visual-studio-c#\ConsoleControl\ConsoleControl\ConsoleControl\bin\Debug\netcoreapp3.1\CSharply.pdb
+E:\Workspaces\visual-studio-c#\ConsoleControl\ConsoleControl\ConsoleControl\obj\Debug\netcoreapp3.1\CSharply.csprojAssemblyReference.cache
+E:\Workspaces\visual-studio-c#\ConsoleControl\ConsoleControl\ConsoleControl\obj\Debug\netcoreapp3.1\CSharply.AssemblyInfoInputs.cache
+E:\Workspaces\visual-studio-c#\ConsoleControl\ConsoleControl\ConsoleControl\obj\Debug\netcoreapp3.1\CSharply.AssemblyInfo.cs
+E:\Workspaces\visual-studio-c#\ConsoleControl\ConsoleControl\ConsoleControl\obj\Debug\netcoreapp3.1\CSharply.csproj.CoreCompileInputs.cache
+E:\Workspaces\visual-studio-c#\ConsoleControl\ConsoleControl\ConsoleControl\obj\Debug\netcoreapp3.1\CSharply.dll
+E:\Workspaces\visual-studio-c#\ConsoleControl\ConsoleControl\ConsoleControl\obj\Debug\netcoreapp3.1\CSharply.pdb
+E:\Workspaces\visual-studio-c#\ConsoleControl\ConsoleControl\ConsoleControl\obj\Debug\netcoreapp3.1\CSharply.genruntimeconfig.cache

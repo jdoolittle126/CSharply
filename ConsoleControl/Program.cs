@@ -155,7 +155,6 @@ namespace Sharply
 
             //TODO Text Alignment
             int slots = (Config.TextWrap) ? Width - cursor_pos_x + (((Height-1) - cursor_pos_y) * Width) : Width - cursor_pos_x;
-            Console.WriteLine(slots + " ");
             if (val.Length > slots) val = val.Substring(0, slots);
 
 
@@ -253,11 +252,38 @@ namespace Sharply
     {
         public static void Main()
         {
-            ConsoleSection x = new ConsoleSection(5, 2, 10, 5);
-            ConsoleSection y = new ConsoleSection(20, 15, 14, 2);
-            ConsoleContainer t = new ConsoleContainer();
+            Console.ReadKey();
+            Console.BackgroundColor = ConsoleColor.Red;
+            Console.Clear();
+            ConsoleSection x = new ConsoleSection(5, 2, 11, 3);
+            ConsoleSection y = new ConsoleSection(20, 1, 19, 10);
 
-            
+            x.Config.TextBackgroundColor = ConsoleColor.Green;
+            x.Config.TextForegroundColor = ConsoleColor.Black;
+
+            y.Config.TextBackgroundColor = ConsoleColor.Yellow;
+            y.Config.TextForegroundColor = ConsoleColor.Blue;
+
+            y.Config.TextWrap = true;
+
+            x.NewLine();
+            x.AppendText(" CSharply!");
+            y.NewLine();
+            y.AppendText("  Someday it will   actually do cool      stuff!");
+
+            x.Draw();
+            y.Draw();
+
+            Console.SetCursorPosition(1, 12);
+            Console.BackgroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.Write("Press any key to continue...");
+            Console.ReadKey();
+
+
+            //ConsoleContainer t = new ConsoleContainer();
+
+
 
         }
     }
